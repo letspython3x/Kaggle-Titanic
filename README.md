@@ -1,1 +1,1 @@
-# Dash basic examples
+# Data Visualization in Python using Dash (& plotly)
