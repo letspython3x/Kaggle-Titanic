@@ -5,10 +5,10 @@ import dash_html_components as html
 # pretty much similar to Flask
 app = dash.Dash()
 
-app.layout = html.Div("Intro to Dash")
+# app.layout = html.Div("Intro to Dash")
 
 # the actual content of a tag is contained under a parameter called children
-app.layout = html.Div(children="Dash Tutorials")
+# app.layout = html.Div(children="Dash Tutorials")
 
 # The children can also be a list of items
 
